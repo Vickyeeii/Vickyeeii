@@ -1,79 +1,113 @@
-<!-- Dark Neon Orange Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a1a,100:000000&text=Vicky%20|%20Web%20Developer&fontColor=FF6A00&fontSize=45&animation=fadeIn" />
-</p>
+<!-- DARK ORANGE SIGNATURE HEADER -->
+<div align="center">
+  <img src="https://img.shields.io/badge/VICKY-DEVELOPER-FF6A00?style=for-the-badge&labelColor=000000" />
+  
+  <h1 style="color:#FF6A00; font-weight:700; margin-top:20px;">
+    Crafting Clean Interfaces • Modern Web Apps • Scalable Systems
+  </h1>
+</div>
 
-<br/>
+<br>
 
-# <p align="center">🟧 **V I C K Y**</p>
-### <p align="center">Web Developer • React • Django • Modern UI • DevOps</p>
+## 🟧 Who I Am
+I’m a developer who prefers **dark minimal UI**, **smooth interactions**, and **clean scalable architecture**.  
+My workflow focuses on **modern frameworks**, **performance**, and **aesthetic experience**.
 
-<p align="center">
-  I build clean, minimalistic, animated and scalable web experiences.  
-  Dark themes, smooth interactions, and elegant UI are my comfort zone.
-</p>
+I build:
 
----
-
-## 🟧 About Me
-- Frontend addict with a love for **dark UI** and **smooth animations**
-- Building full-stack apps using **React**, **Django**, **FastAPI**
-- Deploying production-ready apps with **Docker**, **Nginx**, **EC2**
-- Always experimenting with **minimal aesthetics** and **UX motion**
+- High-quality frontend architectures (React, Vite, Tailwind, Framer Motion)  
+- Backend APIs with Django, FastAPI, Node  
+- Real-world projects with proper deployment pipelines (Docker, EC2, Nginx)  
 
 ---
 
 ## 🟧 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,typescript,django,fastapi,nodejs,postgres,mongodb,docker,nginx,aws,git,figma&theme=dark" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,html,css,js,django,fastapi,nodejs,postgres,mongodb,docker,nginx,aws,git,figma&theme=dark" />
+</div>
 
 ---
 
-## 🟧 Featured Work
+## 🟧 Featured Projects (My Actual Work)
 
-### 🔸 **TaskNet – Freelance Platform (WIP)**
-Full modern platform with:
-- React + TanStack Router  
-- Zustand state management  
-- Django backend  
-
-### 🔸 **TriNet – Warehouse Management System**
-Minimal dark design with motion:
-- Framer animations  
-- Clean dashboard UI  
-
-### 🔸 **LMS – Learning Platform**
-FastAPI + Vue + Stripe  
-Modular and scalable.
-
-### 🔸 **Portfolio – Old Money Theme**
-Premium UI, Bento layout, smooth transitions.
+### **1. OutOfTheBox – Full Ecommerce Platform**
+A modern online store with:
+- Product system, filters, search  
+- Cart, wishlist, authentication  
+- Clean UI with orange-black theme  
+**Tech:** React, Django, REST API
 
 ---
 
-## 🟧 GitHub Stats (Dark Neon Mode)
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vickyeeii&show_icons=true&theme=dark&icon_color=FF6A00&title_color=FF6A00&text_color=ffffff&bg_color=000000" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyeeii&layout=compact&theme=dark&title_color=FF6A00&text_color=ffffff&bg_color=000000" />
-</p>
+### **2. Pure HTML/CSS/JS Landing Page**
+A fully handcrafted landing page:
+- No frameworks  
+- Classy typography + smooth hover effects  
+- Lightweight, ultra-fast  
+**Tech:** HTML, CSS, JavaScript
 
 ---
 
-## 🟧 Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vickyeeii&theme=highcontrast&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00&background=000000" />
-</p>
+### **3. TaskNet – Freelance Marketplace (WIP)**
+Platform with:
+- Client & Freelancer modules  
+- Job posting, proposals, messaging  
+- State management with Zustand  
+**Tech:** React + TanStack Router + Django
 
 ---
 
-## 🟧 Let's Connect
+### **4. TriNet – Warehouse Management UI**
+A polished dashboard featuring:
+- Inventory flow  
+- Real-time UI components  
+- Dark minimal aesthetic  
+**Tech:** React + Framer Motion
+
+---
+
+### **5. LMS – Learning Management System**
+Backend-heavy system with:
+- User roles  
+- Stripe payments  
+- Modular API design  
+**Tech:** FastAPI + MongoDB + Vue
+
+---
+
+### **6. Modern Portfolio (Old Money Theme)**
+Custom-designed personal portfolio:
+- Bento grid  
+- Smooth animations  
+- Minimal serif typography  
+**Tech:** React + Tailwind
+
+---
+
+## 🟧 Design Philosophy
+- **Minimal, always.**  
+- **Dark mode first.**  
+- **Orange accent as identity.**  
+- **No unnecessary elements.**  
+- **Everything should feel intentional.**
+
+---
+
+## 🟧 GitHub Insights (Minimal)
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vickyeeii&show_icons=true&theme=transparent&title_color=FF6A00&icon_color=FF6A00&text_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyeeii&layout=compact&theme=transparent&title_color=FF6A00&text_color=ffffff" />
+</div>
+
+---
+
+## 🟧 Contact
 **Email:** vishnupradeepkuamr359@gmail.com  
-**LinkedIn:** Coming soon  
 **Portfolio:** Coming soon  
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:1a1a1a" />
-</p>
+<div align="center">
+  <hr style="border: 0; height: 1px; background: #333;" />
+  <h3 style="color:#FF6A00;">Building with intention, designing with clarity.</h3>
+</div>
