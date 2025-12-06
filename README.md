@@ -1,77 +1,124 @@
 <!-- SIGNATURE DARK ORANGE HEADER -->
 <div align="center">
   <img src="https://img.shields.io/badge/V I C K Y-000000?style=for-the-badge&logoColor=FF6A00&labelColor=000&color=FF6A00" />
-
+  
   <h2 style="color:#FF6A00; font-weight:800; margin-top:20px;">
-    Frontend Lover • Full Stack Developer • UI-Driven Engineer
+    Full Stack Developer • Frontend Enthusiast • UI Lover
   </h2>
 
-  <p style="max-width:650px; color:#cfcfcf; font-size:15px;">
-    I design emotions disguised as interfaces.  
-    Building digital experiences that feel intentional, aesthetic, and unforgettable.
+  <p style="max-width:600px; color:#cfcfcf; font-size:15px;">
+    I design and build clean, modern, animated, and scalable digital experiences.  
+    Dark themes, elegant typography, and smooth UI interactions are my language.
   </p>
 </div>
 
 ---
 
-# 🟧 1. Personal Tagline  
-### **“I design interfaces with emotion and build systems with logic.”**
+## 🟧 About Me  
+I’m Vicky — a developer who loves **frontend aesthetics**, but can architect full backends when the world forces me to.  
+I enjoy creating digital experiences that feel *intentional*, not accidental.
 
-A balance of aesthetics + engineering defines my work.
+### Things I truly love:
+- Designing stunning interfaces  
+- Building modern SPAs  
+- Creating systems that *feel alive*  
+- Mixing design + engineering into a seamless product  
+
+### Things I actually do daily:
+- React, Vite, Tailwind, Framer Motion  
+- Django, FastAPI, Node.js  
+- PostgreSQL, MongoDB, Firebase  
+- Docker, EC2, Nginx deployments  
+- UI/UX systems & component architecture  
 
 ---
 
-# 🟧 2. Featured Design Gallery  
-> Replace the image URLs with screenshots of OutOfTheBox, Kopico, Portfolio, TriNet, etc.
+## 🟧 My Digital Identity  
+**Dark mode. Orange accent. Minimal. Smooth.  
+That’s the vibe.**
 
+---
+
+## 🟧 Tech Stack  
 <div align="center">
-
-<img src="IMAGE_URL_1" width="280" style="border-radius:8px; margin:8px;" />
-<img src="IMAGE_URL_2" width="280" style="border-radius:8px; margin:8px;" />
-<img src="IMAGE_URL_3" width="280" style="border-radius:8px; margin:8px;" />
-
-<img src="IMAGE_URL_4" width="280" style="border-radius:8px; margin:8px;" />
-<img src="IMAGE_URL_5" width="280" style="border-radius:8px; margin:8px;" />
-<img src="IMAGE_URL_6" width="280" style="border-radius:8px; margin:8px;" />
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,ts,js,html,css,figma,nodejs,express,django,fastapi,mongodb,postgres,docker,nginx,aws,git&theme=dark" />
 </div>
 
 ---
 
-# 🟧 3. My Tech Philosophy  
-### **Frontend is the emotion. Backend is the logic.  
-A great product needs both.**
+## 🟧 Signature Projects (My Best Work)
 
-I believe in:
-
-- Purposeful interfaces  
-- Smooth micro-interactions  
-- Dark themes with character  
-- Spacing, typography, alignment  
-- Systems that scale without noise
-
-I don’t just “code a UI.”  
-I **craft experiences**.
+### 🔸 **OutOfTheBox – Full Ecommerce Platform**
+Modern e-commerce with product flows, filters, authentication, cart & wishlist.  
+**Tech:** React, Django REST, Tailwind  
+**Identity:** Dark theme, orange accents — my signature style.
 
 ---
 
-# 🟧 4. Micro Case Study – OutOfTheBox (Ecommerce Platform)
-
-### **Problem:**  
-Most ecommerce projects look the same and feel dead.
-
-### **What I Built:**  
-A custom ecommerce platform with modern flows, responsive UI, and dynamic components.
-
-### **Unique Twist:**  
-Dark-orange identity with clear hierarchy and product storytelling.
-
-### **Tech:**  
-React, Django REST, Tailwind CSS
+### 🔸 **Kopico – QR-Based Café Management System (MERN, WIP)**
+A unique café system where customers scan a QR to order.  
+- Menu management  
+- Orders dashboard  
+- Real-time updates  
+- Full MERN stack with clean UI  
+**Tech:** MongoDB, Express, React, Node.js
 
 ---
 
-# 🟧 5. Minimal GitHub Stats (Dark + Orange)
+### 🔸 **Pure HTML/CSS/JS Landing Page**
+No frameworks.  
+No shortcuts.  
+Just handcrafted structure, beautiful typography, and micro-interactions.  
+**Tech:** Raw HTML, CSS, JS  
+**Purpose:** Showcase frontend strength beyond libraries.
+
+---
+
+### 🔸 **TaskNet – Freelance Marketplace (WIP)**
+Inspired by Fiverr but built cleaner.  
+- Client & freelancer modules  
+- Job posting  
+- Messaging  
+- Zustand state management  
+**Tech:** React, TanStack Router, Django
+
+---
+
+### 🔸 **TriNet – Warehouse Management UI**
+A polished interactive dashboard system.  
+**Tech:** React + Framer Motion
+
+---
+
+### 🔸 **LMS – Learning Management System**
+Modular, scalable, payment-enabled LMS.  
+**Tech:** FastAPI, MongoDB, Stripe, Vue (Vite)
+
+---
+
+### 🔸 **Designer Portfolio – Old Money Theme**
+Your personal portfolio:  
+https://saphinox.onrender.com/  
+Looks premium. Loads fast. Aesthetic typography. Clean layout.
+
+---
+
+## 🟧 Design Philosophy  
+**If it doesn’t look good, it doesn’t feel good.  
+If it doesn’t feel good, users won’t stay.**
+
+I focus on:
+- Strong visual hierarchy  
+- Minimal layouts  
+- Color psychology  
+- Micro-animations  
+- Consistency and rhythm  
+
+Frontend is not “just UI” — it’s emotional engineering.
+
+---
+
+## 🟧 GitHub Insights (Minimal + Elegant)
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=vickyeeii&show_icons=true&theme=transparent&title_color=FF6A00&icon_color=FF6A00&text_color=ffffff" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyeeii&layout=compact&theme=transparent&title_color=FF6A00&text_color=ffffff" />
@@ -79,71 +126,21 @@ React, Django REST, Tailwind CSS
 
 ---
 
-# 🟧 6. Categorized Tech Stack
-
-### **Design**
-- Figma  
-- Layout systems  
-- Motion design (timing, easing)  
-- Typography & color psychology  
-
-### **Frontend**
-- React  
-- Vite  
-- Tailwind CSS  
-- TypeScript  
-- Framer Motion  
-- Zustand  
-- HTML • CSS • JS  
-
-### **Backend**
-- Django  
-- FastAPI  
-- Node.js  
-- REST API patterns  
-- Authentication systems  
-
-### **Databases**
-- MongoDB  
-- PostgreSQL  
-- Firebase  
-
-### **DevOps**
-- Docker  
-- Nginx  
-- EC2  
-- CI/CD pipelines  
-
----
-
-# 🟧 7. Brand Identity (Your Signature Style)
-
-### My Work Has:
-- **Dark mode as the base canvas**  
-- **Orange accents for energy and focus**  
-- **Sharp geometry, wide spacing**  
-- **Minimal layouts with maximum clarity**  
-- **Elegant transitions and motion theory**  
-
-Your GitHub and portfolio follow a **consistent identity** — which is rare and powerful.
-
----
-
-# 🟧 8. Call to Action  
-### **“Let’s build something that feels modern, intentional, and unforgettable.”**
-
-I'm open to collaborations, UI consulting, and building premium digital products.
+## 🟧 Streak  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vickyeeii&theme=highcontrast&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00&background=000000" />
+</div>
 
 ---
 
 ## 🟧 Connect With Me  
-**Portfolio:** https://saphinox.onrender.com/  
 **LinkedIn:** https://www.linkedin.com/in/vickyeeii/  
+**Portfolio:** https://saphinox.onrender.com/  
 **Email:** vishnupradeepkuamr359@gmail.com  
 
 ---
 
 <div align="center">
   <h3 style="color:#FF6A00;">Design. Build. Refine. Repeat.</h3>
-  <p style="color:#888;">Always improving the craft.</p>
+  <p style="color:#999;">Always creating something new.</p>
 </div>
