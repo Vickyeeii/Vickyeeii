@@ -20,13 +20,12 @@ I enjoy creating digital experiences that feel *intentional*, not accidental.
 
 ### Things I truly love:
 - Designing stunning interfaces  
-- Crafting animated, living UI  
-- 3D integrations and visual effects  
+- Crafting animated, living UI   
 - Building SPAs that feel premium  
 
 ### Things I actually do daily:
 - React, Vite, Tailwind, Framer Motion  
-- GSAP, Three.js, Blender  
+- GSAP
 - Django, FastAPI, Node.js  
 - PostgreSQL, MongoDB, Firebase  
 - Docker, EC2, Nginx deployments  
@@ -59,7 +58,7 @@ Motion is part of my identity, so here’s what I use to bring interfaces to lif
 - **ScrollTrigger** for dynamic scroll-reactive effects  
 - **Bezier easing & motion theory** for natural feeling transitions  
 - **State-driven animations** bound to UI logic  
-- **SVG morphing, stagger effects, reveal animations**  
+- **stagger effects, reveal animations**  
 - **Component-level animation architecture** for scalable UIs  
 
 ---
@@ -67,8 +66,8 @@ Motion is part of my identity, so here’s what I use to bring interfaces to lif
 ## 🟧 3D & Motion Tools  
 Beyond flat design, I work with 3D, physics, and visual depth:
 
-- **Three.js** for interactive 3D scenes  
-- **Blender** for modeling, lighting & rendering assets  
+- **Three.js** for interactive 3D scenes (Basic) 
+- **Blender** for modeling, lighting & rendering assets  (Basic) 
 - **GSAP + WebGL pipelines**  
 - **Custom shader effects (beginner level)**  
 - **3D transitions for web interfaces**  
