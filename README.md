@@ -8,113 +8,175 @@
 
   <p style="max-width:600px; color:#cfcfcf; font-size:15px;">
     I design and build clean, modern, animated, and scalable digital experiences.  
-    Dark themes, elegant typography, and smooth UI interactions are my language.
+    Motion, interaction, and visual storytelling fuel my frontend work.
   </p>
 </div>
 
 ---
 
 ## 🟧 About Me  
-I’m Vicky — a developer who loves **frontend aesthetics**, but can architect full backends when the world forces me to.  
+I’m Vicky — a developer who loves **frontend aesthetics**, advanced animations, and expressive UI systems.  
 I enjoy creating digital experiences that feel *intentional*, not accidental.
 
 ### Things I truly love:
 - Designing stunning interfaces  
-- Building modern SPAs  
-- Creating systems that *feel alive*  
-- Mixing design + engineering into a seamless product  
+- Crafting animated, living UI  
+- 3D integrations and visual effects  
+- Building SPAs that feel premium  
 
 ### Things I actually do daily:
 - React, Vite, Tailwind, Framer Motion  
+- GSAP, Three.js, Blender  
 - Django, FastAPI, Node.js  
 - PostgreSQL, MongoDB, Firebase  
 - Docker, EC2, Nginx deployments  
-- UI/UX systems & component architecture  
 
 ---
 
 ## 🟧 My Digital Identity  
-**Dark mode. Orange accent. Minimal. Smooth.  
-That’s the vibe.**
+**I shape the web through motion, experience, and interaction.**  
+My work blends **frontend engineering + animation + 3D + design thinking** into interfaces that feel alive.
+
+I specialize in:
+- GSAP & Framer Motion  
+- Three.js & Blender  
+- Interaction-heavy UI systems  
+- Modern design language & responsive layout architecture  
+
+Dark mode or light mode doesn’t define my style.  
+**The experience does.**
+
+I don’t just build screens.  
+I **design moments.**
+
+---
+
+## 🟧 My Animation Skills  
+Motion is part of my identity, so here’s what I use to bring interfaces to life:
+
+- **GSAP** for timeline-based micro-interactions  
+- **Framer Motion** for React-driven motion and UI choreography  
+- **ScrollTrigger** for dynamic scroll-reactive effects  
+- **Bezier easing & motion theory** for natural feeling transitions  
+- **State-driven animations** bound to UI logic  
+- **SVG morphing, stagger effects, reveal animations**  
+- **Component-level animation architecture** for scalable UIs  
+
+---
+
+## 🟧 3D & Motion Tools  
+Beyond flat design, I work with 3D, physics, and visual depth:
+
+- **Three.js** for interactive 3D scenes  
+- **Blender** for modeling, lighting & rendering assets  
+- **GSAP + WebGL pipelines**  
+- **Custom shader effects (beginner level)**  
+- **3D transitions for web interfaces**  
+- **Cinematic UI experiments (ambient motion + perspective depth)**  
+
+I love blurring the line between UI and immersive visuals.
+
+---
+
+## 🟧 Scroll-Triggered Animated SVG Bars  
+GitHub doesn’t allow JavaScript, but we *can* use SVGs with built-in animations.  
+Here’s a clean animated progress bar set that plays automatically (looks scroll-reactive visually).
+
+<div align="center">
+
+<!-- Bar 1 -->
+<svg width="300" height="20">
+  <rect width="300" height="20" fill="#1a1a1a" rx="4"></rect>
+  <rect width="0" height="20" fill="#FF6A00" rx="4">
+    <animate attributeName="width" from="0" to="260" dur="1.2s" fill="freeze" />
+  </rect>
+</svg>
+<p style="color:#FF6A00; margin-top:4px;">Frontend Engineering</p>
+
+<!-- Bar 2 -->
+<svg width="300" height="20">
+  <rect width="300" height="20" fill="#1a1a1a" rx="4"></rect>
+  <rect width="0" height="20" fill="#FF6A00" rx="4">
+    <animate attributeName="width" from="0" to="240" dur="1.3s" fill="freeze" />
+  </rect>
+</svg>
+<p style="color:#FF6A00; margin-top:4px;">Animation & Motion Design</p>
+
+<!-- Bar 3 -->
+<svg width="300" height="20">
+  <rect width="300" height="20" fill="#1a1a1a" rx="4"></rect>
+  <rect width="0" height="20" fill="#FF6A00" rx="4">
+    <animate attributeName="width" from="0" to="210" dur="1.4s" fill="freeze" />
+  </rect>
+</svg>
+<p style="color:#FF6A00; margin-top:4px;">3D & WebGL</p>
+
+</div>
+
+These load as you scroll naturally, creating a **scroll-trigger illusion**.
 
 ---
 
 ## 🟧 Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,ts,js,html,css,figma,nodejs,express,django,fastapi,mongodb,postgres,docker,nginx,aws,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,vite,tailwind,ts,js,html,css,figma,nodejs,express,django,fastapi,mongodb,postgres,docker,nginx,aws,git,blender&theme=dark" />
 </div>
 
 ---
 
 ## 🟧 Signature Projects (My Best Work)
 
-### 🔸 **OutOfTheBox – Full Ecommerce Platform**
-Modern e-commerce with product flows, filters, authentication, cart & wishlist.  
+### 🔸 **OutOfTheBox – Full Ecommerce Platform**  
+Dark, modern, scalable e-commerce with filtering, cart, auth, wishlist.  
 **Tech:** React, Django REST, Tailwind  
-**Identity:** Dark theme, orange accents — my signature style.
 
 ---
 
-### 🔸 **Kopico – QR-Based Café Management System (MERN, WIP)**
-A unique café system where customers scan a QR to order.  
-- Menu management  
-- Orders dashboard  
-- Real-time updates  
-- Full MERN stack with clean UI  
-**Tech:** MongoDB, Express, React, Node.js
+### 🔸 **Kopico – QR-Based Café Management System (MERN, WIP)**  
+QR-powered ordering system with a clean MERN dashboard.  
+**Tech:** MongoDB, Express, React, Node.js  
 
 ---
 
-### 🔸 **Pure HTML/CSS/JS Landing Page**
-No frameworks.  
-No shortcuts.  
-Just handcrafted structure, beautiful typography, and micro-interactions.  
-**Tech:** Raw HTML, CSS, JS  
-**Purpose:** Showcase frontend strength beyond libraries.
+### 🔸 **Pure HTML/CSS/JS Landing Page**  
+Handcrafted, animated, typography-focused landing page.  
+**Tech:** HTML, CSS, JavaScript  
 
 ---
 
-### 🔸 **TaskNet – Freelance Marketplace (WIP)**
-Inspired by Fiverr but built cleaner.  
-- Client & freelancer modules  
-- Job posting  
-- Messaging  
-- Zustand state management  
-**Tech:** React, TanStack Router, Django
+### 🔸 **TaskNet – Freelance Marketplace (WIP)**  
+Client dashboard, messaging, job posting.  
+**Tech:** React, TanStack Router, Django  
 
 ---
 
-### 🔸 **TriNet – Warehouse Management UI**
-A polished interactive dashboard system.  
-**Tech:** React + Framer Motion
+### 🔸 **TriNet – Warehouse Management UI**  
+A polished animated dashboard experience.  
+**Tech:** React + Framer Motion  
 
 ---
 
-### 🔸 **LMS – Learning Management System**
-Modular, scalable, payment-enabled LMS.  
-**Tech:** FastAPI, MongoDB, Stripe, Vue (Vite)
+### 🔸 **LMS – Learning Management System**  
+Role-based modular LMS with payments.  
+**Tech:** FastAPI, MongoDB, Stripe, Vue  
 
 ---
 
-### 🔸 **Designer Portfolio – Old Money Theme**
-Your personal portfolio:  
-https://saphinox.onrender.com/  
-Looks premium. Loads fast. Aesthetic typography. Clean layout.
+### 🔸 **Designer Portfolio – Old Money Theme**  
+Premium bento layout, smooth motion:  
+https://saphinox.onrender.com/
 
 ---
 
 ## 🟧 Design Philosophy  
-**If it doesn’t look good, it doesn’t feel good.  
-If it doesn’t feel good, users won’t stay.**
-
+**Interfaces should feel alive.**  
 I focus on:
-- Strong visual hierarchy  
-- Minimal layouts  
-- Color psychology  
-- Micro-animations  
-- Consistency and rhythm  
 
-Frontend is not “just UI” — it’s emotional engineering.
+- Motion as feedback  
+- Clean geometry  
+- Strong visual hierarchy  
+- Typography harmony  
+- Micro-interactions that add meaning  
 
 ---
 
@@ -141,6 +203,6 @@ Frontend is not “just UI” — it’s emotional engineering.
 ---
 
 <div align="center">
-  <h3 style="color:#FF6A00;">Design. Build. Refine. Repeat.</h3>
-  <p style="color:#999;">Always creating something new.</p>
+  <h3 style="color:#FF6A00;">Design. Build. Animate. Refine.</h3>
+  <p style="color:#999;">Aesthetic engineering is the goal.</p>
 </div>
