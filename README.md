@@ -118,7 +118,7 @@ These load as you scroll naturally, creating a **scroll-trigger illusion**.
 
 ## 🟧 Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,vite,tailwind,ts,js,html,css,figma,nodejs,express,django,fastapi,mongodb,postgres,docker,nginx,aws,git,blender&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,threejs,vite,tailwind,ts,js,html,css,figma,nodejs,express,django,fastapi,mongodb,postgres,docker,nginx,aws,git,blender&theme=dark" />
 </div>
 
 ---
