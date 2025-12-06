@@ -1,65 +1,73 @@
-<!-- Clean Minimal Orange Banner -->
+<!-- Dark Neon Orange Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6A00&height=70&section=header&text=Vicky%20%7C%20Web%20Developer&fontSize=28&fontColor=ffffff&fontAlign=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a1a,100:000000&text=Vicky%20|%20Web%20Developer&fontColor=FF6A00&fontSize=45&animation=fadeIn" />
 </p>
 
 <br/>
 
-# 🟧 Hi, I’m **Vicky**
-A developer who prefers clean UI, smooth UX, and code that doesn’t scream for help.  
-I build modern web applications with a focus on minimalism, animation, and performance.
+# <p align="center">🟧 **V I C K Y**</p>
+### <p align="center">Web Developer • React • Django • Modern UI • DevOps</p>
 
----
-
-## 🟧 What I Do
-- Frontend development with React, Vite, Tailwind  
-- Backend systems using Django, FastAPI, Node  
-- Modern UI/UX with Framer Motion  
-- Deployments using Docker, EC2, Nginx  
-- Scalable real-world projects  
-
----
-
-## 🟧 Tech Stack (Minimal Icons)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,django,fastapi,nodejs,postgres,mongodb,docker,nginx,aws,git,figma" />
-</p>
-
----
-
-## 🟧 Featured Projects
-
-### **🔸 TaskNet (Freelance Platform – WIP)**
-Modern freelance marketplace built with  
-React + TanStack Router + Zustand + Django.
-
-### **🔸 TriNet (Warehouse Management System)**
-Minimal dark UI, smooth motion, clean architecture.
-
-### **🔸 LMS Platform**
-FastAPI backend, Vue frontend, Stripe integration.
-
-### **🔸 Portfolio – Old Money Theme**
-Aesthetic, structured, and responsive.
-
----
-
-## 🟧 GitHub Stats (Minimal)
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vickyeeii&show_icons=true&theme=transparent&icon_color=FF6A00&title_color=FF6A00&text_color=ffffff" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyeeii&layout=compact&theme=transparent&title_color=FF6A00&text_color=ffffff" />
+  I build clean, minimalistic, animated and scalable web experiences.  
+  Dark themes, smooth interactions, and elegant UI are my comfort zone.
 </p>
 
 ---
 
-## 🟧 Contribution Streak
+## 🟧 About Me
+- Frontend addict with a love for **dark UI** and **smooth animations**
+- Building full-stack apps using **React**, **Django**, **FastAPI**
+- Deploying production-ready apps with **Docker**, **Nginx**, **EC2**
+- Always experimenting with **minimal aesthetics** and **UX motion**
+
+---
+
+## 🟧 Tech Stack
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vickyeeii&theme=dark&background=00000000&fire=FF6A00&ring=FF6A00&currStreakLabel=FF6A00" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,typescript,django,fastapi,nodejs,postgres,mongodb,docker,nginx,aws,git,figma&theme=dark" />
 </p>
 
 ---
 
-## 🟧 Contact
+## 🟧 Featured Work
+
+### 🔸 **TaskNet – Freelance Platform (WIP)**
+Full modern platform with:
+- React + TanStack Router  
+- Zustand state management  
+- Django backend  
+
+### 🔸 **TriNet – Warehouse Management System**
+Minimal dark design with motion:
+- Framer animations  
+- Clean dashboard UI  
+
+### 🔸 **LMS – Learning Platform**
+FastAPI + Vue + Stripe  
+Modular and scalable.
+
+### 🔸 **Portfolio – Old Money Theme**
+Premium UI, Bento layout, smooth transitions.
+
+---
+
+## 🟧 GitHub Stats (Dark Neon Mode)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vickyeeii&show_icons=true&theme=dark&icon_color=FF6A00&title_color=FF6A00&text_color=ffffff&bg_color=000000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyeeii&layout=compact&theme=dark&title_color=FF6A00&text_color=ffffff&bg_color=000000" />
+</p>
+
+---
+
+## 🟧 Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vickyeeii&theme=highcontrast&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00&background=000000" />
+</p>
+
+---
+
+## 🟧 Let's Connect
 **Email:** vishnupradeepkuamr359@gmail.com  
 **LinkedIn:** Coming soon  
 **Portfolio:** Coming soon  
@@ -67,5 +75,5 @@ Aesthetic, structured, and responsive.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6A00&height=50&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:1a1a1a" />
 </p>
