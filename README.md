@@ -1,119 +1,71 @@
-<!-- Banner -->
+<!-- Clean Minimal Orange Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2E7D32&height=200&section=header&text=Vicky%20%7C%20Level%20100%20Web%20Developer&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6A00&height=70&section=header&text=Vicky%20%7C%20Web%20Developer&fontSize=28&fontColor=ffffff&fontAlign=50&animation=fadeIn" />
 </p>
 
-# 👋 Hi, I’m **Vicky**
-### Level 100 Web Developer | React • Django • DevOps Explorer | Builder of Things That Work
+<br/>
 
-Welcome to my GitHub profile! I build full-stack applications, experiment with modern frameworks, and enjoy turning ideas into clean, scalable projects.
-
----
-
-## 🚀 What I Do
-- Full-stack development (React, Vite, Tailwind, Django, FastAPI)  
-- Modern front-end architecture with reusable components  
-- Backend API design + authentication systems  
-- DevOps basics: Docker, Nginx, EC2, CI/CD  
-- Building portfolio-ready real-world applications  
+# 🟧 Hi, I’m **Vicky**
+A developer who prefers clean UI, smooth UX, and code that doesn’t scream for help.  
+I build modern web applications with a focus on minimalism, animation, and performance.
 
 ---
 
-## 🧠 Current Focus
-- React 19 + TanStack Router  
-- Framer Motion animations  
-- Scalable full-stack architectures  
-- Production deployment pipelines  
+## 🟧 What I Do
+- Frontend development with React, Vite, Tailwind  
+- Backend systems using Django, FastAPI, Node  
+- Modern UI/UX with Framer Motion  
+- Deployments using Docker, EC2, Nginx  
+- Scalable real-world projects  
 
 ---
 
-## 📦 Tech Stack
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-000?logo=react)  
-![Vite](https://img.shields.io/badge/Vite-000?logo=vite)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss)  
-![FramerMotion](https://img.shields.io/badge/FramerMotion-000?logo=framer)  
-![Zustand](https://img.shields.io/badge/Zustand-000)
-
-### **Backend**
-![Django](https://img.shields.io/badge/Django-000?logo=django)  
-![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi)  
-![NodeJS](https://img.shields.io/badge/Node.js-000?logo=node.js)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)  
-![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
-
-### **Tools**
-![Docker](https://img.shields.io/badge/Docker-000?logo=docker)  
-![Nginx](https://img.shields.io/badge/Nginx-000?logo=nginx)  
-![AWS](https://img.shields.io/badge/AWS-000?logo=amazonaws)  
-![Git](https://img.shields.io/badge/Git-000?logo=git)  
-![Figma](https://img.shields.io/badge/Figma-000?logo=figma)
+## 🟧 Tech Stack (Minimal Icons)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,django,fastapi,nodejs,postgres,mongodb,docker,nginx,aws,git,figma" />
+</p>
 
 ---
 
-## 🧩 Highlighted Projects
+## 🟧 Featured Projects
 
-<details>
-  <summary><strong>🔹 TaskNet – Freelance Job Platform (WIP)</strong></summary>
-
+### **🔸 TaskNet (Freelance Platform – WIP)**
 Modern freelance marketplace built with  
-React + TanStack Router + Zustand + Django  
-Clean UI, authentication, dashboards, job posting flows.
-</details>
+React + TanStack Router + Zustand + Django.
 
-<details>
-  <summary><strong>🔹 TriNet – Warehouse Management System</strong></summary>
+### **🔸 TriNet (Warehouse Management System)**
+Minimal dark UI, smooth motion, clean architecture.
 
-Minimal dark UI, Framer animations, scalable architecture.
-</details>
+### **🔸 LMS Platform**
+FastAPI backend, Vue frontend, Stripe integration.
 
-<details>
-  <summary><strong>🔹 Learning Management System (LMS)</strong></summary>
-
-FastAPI backend, Vue (Vite) frontend, Stripe integration.
-</details>
-
-<details>
-  <summary><strong>🔹 React Portfolio – Old Money Design</strong></summary>
-
-Elegant UI, Bento sections, responsive layout.
-</details>
+### **🔸 Portfolio – Old Money Theme**
+Aesthetic, structured, and responsive.
 
 ---
 
-## 📊 GitHub Stats
-
+## 🟧 GitHub Stats (Minimal)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vickyeeii&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyeeii&layout=compact&theme=dark&hide_border=true" height="150" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vickyeeii&show_icons=true&theme=transparent&icon_color=FF6A00&title_color=FF6A00&text_color=ffffff" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyeeii&layout=compact&theme=transparent&title_color=FF6A00&text_color=ffffff" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🟧 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vickyeeii&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=vickyeeii&theme=dark&background=00000000&fire=FF6A00&ring=FF6A00&currStreakLabel=FF6A00" />
 </p>
 
 ---
 
-## 🌱 Learning & Growing
-I constantly improve my skills in modern frameworks, animations, backend systems, and scalable architectures.
-
----
-
-## 📫 Reach Me
+## 🟧 Contact
 **Email:** vishnupradeepkuamr359@gmail.com  
-**LinkedIn:** https://linkedin.com/in/your-profile  
-**Portfolio:** https://your-portfolio-link.com  
+**LinkedIn:** Coming soon  
+**Portfolio:** Coming soon  
 
 ---
 
-## ⚡ Fun Fact
-I don’t drink coffee… but I still code like I do.
-
-<!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:4CAF50&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6A00&height=50&section=footer" />
 </p>
