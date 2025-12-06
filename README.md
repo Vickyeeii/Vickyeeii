@@ -1,6 +1,6 @@
 <!-- SIGNATURE DARK ORANGE HEADER -->
 <div align="center">
-  <img src="https://img.shields.io/badge/V I C K Y-000000?style=for-the-badge&logoColor=FF6A00&labelColor=000&color=FF6A00" />
+  <img src="https://img.shields.io/badge/V I C K Y E E I I-000000?style=for-the-badge&logoColor=FF6A00&labelColor=000&color=FF6A00" />
   
   <h2 style="color:#FF6A00; font-weight:800; margin-top:20px;">
     Full Stack Developer • Frontend Enthusiast • UI Lover
