@@ -255,6 +255,11 @@ I focus on:
 <div align="center">
   <h3 style="color:#FF6A00;">Design. Build. Animate. Refine.</h3>
   <p style="color:#999;">Aesthetic engineering is the goal.</p>
+
+  <p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
   
 <img align='center' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%">
 
