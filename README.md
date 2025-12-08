@@ -179,11 +179,10 @@ I focus on:
 
 ---
 
-## 🟧 GitHub Insights (Minimal + Elegant)
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vickyeeii&show_icons=true&theme=transparent&title_color=FF6A00&icon_color=FF6A00&text_color=ffffff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyeeii&layout=compact&theme=transparent&title_color=FF6A00&text_color=ffffff" />
-</div>
+<p align='center'>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
+</p>
 
 ---
 
