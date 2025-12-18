@@ -141,23 +141,6 @@ QR-powered ordering system with a clean MERN dashboard.
 Handcrafted, animated, typography-focused landing page.  
 **Tech:** HTML, CSS, JavaScript  
 
----
-
-### 🔸 **TaskNet – Freelance Marketplace (WIP)**  
-Client dashboard, messaging, job posting.  
-**Tech:** React, TanStack Router, Django  
-
----
-
-### 🔸 **TriNet – Warehouse Management UI**  
-A polished animated dashboard experience.  
-**Tech:** React + Framer Motion  
-
----
-
-### 🔸 **LMS – Learning Management System**  
-Role-based modular LMS with payments.  
-**Tech:** FastAPI, MongoDB, Stripe, Vue  
 
 ---
 
