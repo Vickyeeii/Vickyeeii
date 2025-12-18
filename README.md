@@ -223,15 +223,17 @@ I focus on:
 
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
 
 
 
-## 🟧 Connect With Me  
-**LinkedIn:** https://www.linkedin.com/in/vickyeeii/  
-**Portfolio:** https://saphinox.onrender.com/  
-**Email:** vishnupradeepkuamr359@gmail.com  
+## 🟧 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/vickyeeii/
+- **Portfolio:** https://saphinox.onrender.com/
+- **Personal Portfolio:** https://vickyeeii.onrender.com/
+- **Email:** vickyeeeeiiii@gmail.com
+
 
 ---
 
