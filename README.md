@@ -127,7 +127,7 @@ These load as you scroll naturally, creating a **scroll-trigger illusion**.
 
 ### 🔸 **OutOfTheBox – Full Ecommerce Platform**  
 Dark, modern, scalable e-commerce with filtering, cart, auth, wishlist.  
-**Tech:** React, Django REST, Tailwind  
+**Tech:** Mern Stack, Tailwind  
 
 ---
 
